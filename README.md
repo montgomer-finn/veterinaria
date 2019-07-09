@@ -11,7 +11,7 @@ O aplicativo foi desenvolvido em C# utilizando o Visual Studio Community 2019 (v
 * Vá para https://github.com/montgomery-finn/veterinaria;
 * Clique em "Clone or download" e "Download ZIP";
 * Descompacte o arquivo baixado e abra a pasta;
-* O arquivo principal é o "ClinVet.sln";
+* O arquivo principal é o "ProjetoFinal.sln";
 
 # Configuração e execução
 Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "ProjetoFinal.sln", que está na pasta "veterinaria-master"
