@@ -20,7 +20,7 @@ Basta clicar em "Iniciar" (ou F5 no teclado) para compilar e executar a aplicaç
 # Conteúdo do repositório
 O repositório contém as pastas:
 
-* Apresentacao: Projeto onde foi desenvolvida a interface gráfica do apicativo, utilizando Windows forms;
+* VeterinariaAPP: Projeto onde foi desenvolvida a interface gráfica do apicativo, utilizando Windows forms;
 * Modelo: Contém as classes base utilizadas, desenvolvidas utilizando o padrão do Entity Framework Core (com ID's, foreign Keys e atributos de navegação);
 * Persistencia: Projeto que cuida das configurações e faz a efetiva conexão da aplicação com o banco de dados (SQL Server);
 * Servico: Projeto intermediário, que faz a ligação entre a interface a persistência;
