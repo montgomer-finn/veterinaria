@@ -1,0 +1,14 @@
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\sandr\Documents\OO - C#\ProjetoFinal\Servico\obj\Debug\netstandard2.0\Servico.pdb
