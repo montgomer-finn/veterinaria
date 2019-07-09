@@ -1,5 +1,5 @@
 # APLICATIVO VOLTADO A CLÍNICA VETERINÁRIA
-Projeto produzido pelo aluno Sandro Luis de Araujo Junior (Finn Montgomery) na disciplina de Programação Orientada a Objetos no ano de 2019 - 3º Semestre do Curso de Ciência da Computação, da Universidade Tecnológica Federal do Paraná - UTFPR Medianeira e sob a orientação do professor Everton Coimbra de Araújo.
+Projeto produzido pelo aluno Sandro Luis de Araujo Junior na disciplina de Programação Orientada a Objetos no ano de 2019 - 3º Semestre do Curso de Ciência da Computação, da Universidade Tecnológica Federal do Paraná - UTFPR Medianeira e sob a orientação do professor Everton Coimbra de Araújo.
 
 O aplicativo foi desenvolvido em C# utilizando o Visual Studio Community 2019 (v16.0.0 Preview 4.2). Para o banco de dados, foi utilizado o ORM (Mapeamento Objeto-Relacional) do Entity framework Core (v2.2.4), usando o SQL Server.
 
@@ -30,4 +30,4 @@ O repositório contém as pastas:
 * Não foram feitos testes da aplicação em um ambiente real, não havendo portando nenhuma garantia de sua estabilidade.
 
 # Dúvidas ou Sugestões
-* Finn Montgomery - sandrojr826@outlook.com
+* Sandro Junior - sandrojr826@outlook.com
